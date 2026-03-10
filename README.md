@@ -4,8 +4,8 @@
 
 This project is part of the Applied AI Lab series.
 
-In this project: 
- I explored Generative AI by building and training a Generative Adversarial Network (GAN) and deploying an interactive web application.
+### In this project: 
+I explored Generative AI by building and training a Generative Adversarial Network (GAN) and deploying an interactive web application.
 
 ## 🎯 Project Goals
 
