@@ -1,6 +1,6 @@
 # Generative-Adversarial-Networks "GAN"
 
-🚀 Applied AI Lab – Project 5: 
+### 🚀 Applied AI Lab – Project 5: 
 
 This project is part of the Applied AI Lab series.
 
