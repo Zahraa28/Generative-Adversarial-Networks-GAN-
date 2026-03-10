@@ -3,9 +3,11 @@
 🚀 Applied AI Lab – Project 5: 
 
 This project is part of the Applied AI Lab series.
-In this project, I explored Generative AI by building and training a Generative Adversarial Network (GAN) and deploying an interactive web application.
 
-🎯 Project Goals
+In this project: 
+ I explored Generative AI by building and training a Generative Adversarial Network (GAN) and deploying an interactive web application.
+
+##🎯 Project Goals
 
 Understand how GANs work (Generator vs Discriminator).
 
@@ -15,7 +17,7 @@ Use synthetic data to improve model training.
 
 Deploy an AI-powered web application using Streamlit.
 
-⚙️ Key Concepts Learned
+##⚙️ Key Concepts Learned
 
 Creating and training a Generative Adversarial Network (GAN).
 
@@ -27,7 +29,7 @@ Building an interactive web app with Streamlit.
 
 Using Git and GitHub to track project versions and share code.
 
-🧠 Technologies Used
+##🧠 Technologies Used
 
 Python
 
@@ -39,6 +41,6 @@ Streamlit
 
 Git & GitHub
 
-📊 Outcome
+##📊 Outcome
 
 This project helped me understand how generative models create new data, and how these models can be integrated into real applications through interactive web interfaces.
